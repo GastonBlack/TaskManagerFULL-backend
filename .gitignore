@@ -1,41 +1,11 @@
-# Build results
 bin/
 obj/
-out/
-
-# User-specific files
-*.rsuser
+.vs/
 *.user
 *.suo
-*.userprefs
-*.sln.docstates
-
-# IDE files
-.vscode/
-.idea/
-
-# ASP.NET logs
-logs/
+*.cache
 *.log
-
-# Dotnet artifacts
-project.lock.json
-project.fragment.lock.json
-artifacts/
-
-# NuGet packages
-*.nupkg
-*.snupkg
-*.nuspec
-packages/
-*.psmdcp
-
-# Environment variables
-.env
-
-# Others
-*.Cache
-*.dbmdl
+*.mdb
+*.pdb
+*.db
 *.jfm
-_ReSharper*/
-*.[Rr]e[Ss]harper
